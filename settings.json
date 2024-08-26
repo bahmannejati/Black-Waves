@@ -1,0 +1,73 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "window.zoomLevel": 1,
+    "dart.flutterSdkPath": "/home/bnejati/development/flutter/flutter",
+    "go.toolsManagement.autoUpdate": true,
+    "makefile.configureOnOpen": true,
+    "workbench.editor.showTabs": "single",
+    "workbench.colorTheme": "Black Waves",
+    "workbench.iconTheme": "keen-neutral-icon-theme",
+    "workbench.colorCustomizations": {
+        "[Black Waves]": {
+            "foreground": "#ffffff",
+            "editor.foreground": "#ffffff",
+            "textPreformat.foreground": "#ffffff",
+            "editor.lineHighlightBackground": "#ff000049",
+            "editor.findMatchBackground": "#ff0000",
+            "editor.findMatchForeground": "#ffffff",
+            "editor.findMatchBorder": "#00000000",
+            "editor.findMatchHighlightBackground": "#545454f0",
+            "editor.findMatchHighlightBorder": "#ffffff",
+            "editor.findRangeHighlightBackground": "#00000088",
+            "editor.selectionBackground": "#d00000",
+            "editor.selectionForeground": "#ffffff",
+            "editor.selectionHighlightBackground": "#740000f7",
+            "editor.inactiveSelectionBackground": "#30303088",
+            "editor.wordHighlightBorder": "#ff0000",
+            "editor.wordHighlightBackground": "#00000000",
+            "editor.wordHighlightStrongBackground": "#00000000",
+            "editor.wordHighlightStrongBorder": "#ffffffff",
+            "editor.wordHighlightTextBackground": "#00000000",
+            "editor.wordHighlightTextBorder": "#ffffffff",
+
+            "editorCursor.foreground": "#ff0000",
+            "editorCursor.background": "#00000000",
+
+            "tab.activeBorder": "#ff0000",
+            "tab.unfocusedActiveBorder": "#5e5e5e",
+
+            "list.activeSelectionBackground": "#ff000059",
+            
+            "editorLineNumber.foreground": "#4e4e4e",
+            "editorLineNumber.dimmedForeground": "#343434",
+            "editorLineNumber.activeForeground": "#ff0000",
+
+            "focusBorder": "#df0000",
+
+            "terminal.findMatchBackground": "#ff0000fa",
+            "terminal.findMatchHighlightBackground": "#545454f0",
+            "terminal.selectionBackground": "#d00000",
+            "terminal.selectionForeground": "#ffffff",
+            "terminal.tab.activeBorder": "#ff0000",
+            "terminalCursor.background": "#00000000",
+            "terminalCursor.foreground": "#d00000",
+        }
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true,
+        "[Black Waves]": {
+            "enabled": true,
+            "rules": {
+            }
+        },
+    },
+    "editor.tokenColorCustomizations": {
+        "[Black Waves]": {
+        }
+    },
+    "workbench.preferredHighContrastColorTheme": "Black Waves",
+    "window.autoDetectHighContrast": false,
+}
