@@ -33,7 +33,7 @@
     "themes": [
       {
         "label": "Black Waves",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./themes/black-waves-color-theme.json"
       }
     ]
